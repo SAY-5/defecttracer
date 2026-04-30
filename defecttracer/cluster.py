@@ -2,7 +2,7 @@
 
 The corpus + classifier (v3) tell you what kind of bug each crash
 is. v4 tells you which crashes are *the same bug*. A flood of
-production crashes is usually 5–10 distinct bugs reported many
+production crashes is usually 5-10 distinct bugs reported many
 times each; bucketing collapses the duplicates so triage works on
 unique bugs, not raw crash count.
 
